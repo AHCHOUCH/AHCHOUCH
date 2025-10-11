@@ -3,8 +3,7 @@
 
 
 ## 🏆 GitHub Trophies
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2639458" style='border:none;'></iframe>
-
+![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2639458)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AHCHOUCH&limit=5&theme=merko&combine_all_yearly_contributions=true)
