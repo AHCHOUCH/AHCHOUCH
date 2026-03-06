@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on a secret Project. 🤫 <br>🌱 I’m currently in a cybersecurity internship.
+🔭 Working on a secret Project. 🤫
 
 
 ## 🏆 GitHub Trophies
